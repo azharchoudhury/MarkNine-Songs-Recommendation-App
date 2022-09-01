@@ -1,0 +1,60 @@
+@import url("https://rsms.me/inter/inter.css");
+@import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  /* background-color: #f1f5f9; */
+  background-color: #0f172a;
+}
+
+.heading {
+  font-family: "Qwitcher Grypen", cursive;
+  font-size: 5rem;
+}
+
+.App {
+  font-family: Inter, sans-serif;
+  text-align: center;
+}
+
+.description {
+  font-family: "Kalam", cursive;
+  font-size: 1.5rem;
+}
+
+#musicBtn {
+  font-family: "Kaushan Script", cursive;
+}
+
+.music-links {
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.apple {
+  color: black;
+}
+
+.spotify {
+  color: #1db954;
+}
+
+.saavn {
+  color: #2bc5b4;
+}
+
+.youtube {
+  color: #ff0000;
+}
